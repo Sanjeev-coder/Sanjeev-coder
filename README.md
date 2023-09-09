@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
-- 🔭 I’m currently working on **Uber Ride Data Analytics**
+- 🔭 I’m currently working on **Data Science Workbench**
 
 - 🌱 I’m currently learning **Data Analytics**
 
