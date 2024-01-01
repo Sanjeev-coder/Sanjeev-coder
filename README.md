@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
-- 🔭 I’m currently working on **Data Science Workbench**
+- 🔭 I’m currently working as **Data Engineer**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Google cloud services for data engineering**
 
-- 👯 I’m looking to collaborate on **SQL, Python**
+- 👯 I’m looking to collaborate on **SQL, Python, apache beam, google cloud etc.**
 
 - 📫 How to reach me **rajasanjeevkaashyav@gmail.com**
 
