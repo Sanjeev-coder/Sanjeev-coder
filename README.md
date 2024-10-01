@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🔭 I’m currently working as **Data Engineer**
 
